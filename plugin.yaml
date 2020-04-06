@@ -1,17 +1,15 @@
 # Required items.
-game: "TODO"
-api: TODO
-steamID: TODO
-uid: TODO
-author: TODO
-packageName: TODO
+game: "Far Cry 5"
+api: 1
+steamID: 552520
+uid: com.thegreatcabbage.farcry5
+author: TheGreatCabbage
+packageName: farcry5
 features:
-  - TODO
+  - graphics
 
 # Optional items.
-graphicsConfig: TODO
-keymapConfig: TODO
-savesFolder: TODO
-gameDirectory: "TODO"
+graphicsConfig: $!DOCUMENTS!$/My Games/Far Cry 5/gamerprofile.xml
+gameDirectory: Far Cry 5
 verificationPaths:
-  - TODO
+  - bin/FarCry5.exe
